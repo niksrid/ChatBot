@@ -1,0 +1,33 @@
+Student Login - 
+
+	Database
+----------------------------------
+	SrNo, UserID, Password, Dept, Name
+----------------------------------
+
+Bot - 
+
+Commands  
+	- Greeting
+	- Topic
+		-> Internals
+		-> Attendance
+		-> Calender of Events
+		-> Resources (Textbooks / Library)
+		-> ----
+	- Goodbye (Program exit?)
+
+ 
+	Database
+----------------------------------
+	SrNo, Question, Reply, Weight
+----------------------------------
+
+API's / JSON files used
+------------
+	AFINN-111 in JSON : https://github.com/wooorm/afinn-111
+	
+
+
+
+
